@@ -1,6 +1,6 @@
-# Análisis de la pandemia COVID-19 en CABA durante el 2023
+# 📈 Análisis de la pandemia COVID-19 en CABA durante el 2023
 
-Este informe se propone analizar cómo continuó la evolución del COVID-19 en CABA durante el 2023. El análisis se hizo teniendo en cuenta los testeos realizados y el índice de vacunación por grupo etario
+Este dashboard realizado en Power BI se propone analizar la evolución del COVID-19 en CABA durante el 2023. El análisis se hizo teniendo en cuenta los testeos realizados y el índice de vacunación por grupo etario
 
 Según los datos publicados por el Ministerio de Salud concluimos:
 - La edad promedio de contagios fue de 49 años;
